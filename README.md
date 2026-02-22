@@ -66,5 +66,3 @@ assignment lab1 removed
 $ give-add lab1 grep.sh grep.autotests grep.automarking
 assignment lab1 created
 ```
-**Mark**: 87.1/100 (High Distinction)
-
